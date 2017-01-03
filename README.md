@@ -5,4 +5,4 @@
 
 ###NodeJS NPM
 * [NodeJS](https://nodejs.org/en/)
-* [phantomJs](https://www.npmjs.com/package/phantomjs
+* [phantomJs](https://www.npmjs.com/package/phantomjs)
